@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![sirshasana homepage](https://github.com/raphaaile/salut/blob/master/sirshasana%20homepage.jpg)
+![sirshasana homepage](https://github.com/raphaaile/salut.yoga/blob/master/sirshasana%20homepage.jpg)
 
 
 ### Jekyll Themes
