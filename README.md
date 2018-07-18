@@ -24,8 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![tete.jpg](https://github.com/raphaaile/salut.yoga/blob/650567503865266d6fd8b3475fffe566e4dd2c92/tete.pdf)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![sirshasana homepage](https://github.com/raphaaile/salut/blob/master/sirshasana%20homepage.jpg)
 
 
 ### Jekyll Themes
