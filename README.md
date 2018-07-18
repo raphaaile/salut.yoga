@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nouvel atelier de yoga à Lausanne
 
 You can use the [editor on GitHub](https://github.com/raphaaile/salut.yoga/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
